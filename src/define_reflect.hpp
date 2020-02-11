@@ -1,0 +1,12 @@
+#ifndef REFLECT_DEFINE_REFLECT_HPP
+#define REFLECT_DEFINE_REFLECT_HPP
+namespace rf {
+
+
+
+
+
+}
+
+
+#endif //REFLECT_DEFINE_REFLECT_HPP
